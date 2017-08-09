@@ -1,0 +1,21 @@
+.search_holder {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-content: flex-start;
+    align-items: flex-start;
+    }
+
+.sample {
+    order: 0;
+    flex: 0 1 auto;
+    align-self: auto;
+    font-family: 'Open Sans', sans-serif;
+    }
+
+.sample p{
+    font-size: 14px;
+    line-height: .25em;
+
+  }
